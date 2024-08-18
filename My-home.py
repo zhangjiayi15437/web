@@ -52,7 +52,7 @@ def page2():
     '''我的分享图片'''
     st.write('图片')
     st.write('---------------------->')
-    image(image_1, '???')
+    image('image\minecraft_image.png', '???')
     image('image\mc.png', '鬼畜的mc')
     
     pass
