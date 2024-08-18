@@ -121,8 +121,8 @@ def page5():
             myvideo = f.read()
         st.write(text + '--------------V')
         st.video(myvideo, start_time = 0)
-    video('video/j-10.mp4', '旱地拔葱？')
-    video('video/chuan.mp4', '川普激情演唱')
+    #video('video/j-10.mp4', '旱地拔葱？')
+    #video('video/chuan.mp4', '川普激情演唱')
     
 
 def page0():
